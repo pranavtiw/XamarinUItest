@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/UiTestDemoApp.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/UiTestDemoApp.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/UiTestDemoApp.UITests.csproj",
+        "projectName": "UiTestDemoApp.UITests",
+        "projectPath": "/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/UiTestDemoApp.UITests.csproj",
+        "packagesPath": "/Users/pranavtiwari/.nuget/packages/",
+        "outputPath": "/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/pranavtiwari/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "/Users/pranavtiwari/Downloads/Latest_Mac/ExternalPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

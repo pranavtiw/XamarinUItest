@@ -1,0 +1,10 @@
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/bin/Debug/UiTestDemoApp.UITests.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/bin/Debug/UiTestDemoApp.UITests.pdb
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/bin/Debug/nunit.framework.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/bin/Debug/nunit.framework.pdb
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/obj/Debug/UiTestDemoApp.UITests.csproj.CoreCompileInputs.cache
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/obj/Debug/UiTestDemoApp.UITests.csproj.CopyComplete
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/obj/Debug/UiTestDemoApp.UITests.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/obj/Debug/UiTestDemoApp.UITests.pdb
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/obj/Debug/UiTestDemoApp.UITests.csprojAssemblyReference.cache

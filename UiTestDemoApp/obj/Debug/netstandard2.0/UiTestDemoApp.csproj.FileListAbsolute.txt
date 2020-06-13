@@ -1,0 +1,15 @@
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/bin/Debug/netstandard2.0/UiTestDemoApp.deps.json
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/bin/Debug/netstandard2.0/UiTestDemoApp.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/bin/Debug/netstandard2.0/ref/UiTestDemoApp.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/bin/Debug/netstandard2.0/UiTestDemoApp.pdb
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/Dashboard.xaml.g.cs
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/UiTestDemoApp.AssemblyInfoInputs.cache
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/UiTestDemoApp.AssemblyInfo.cs
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/UiTestDemoApp.csproj.CoreCompileInputs.cache
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/UiTestDemoApp.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/ref/UiTestDemoApp.dll
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/UiTestDemoApp.pdb
+/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp/obj/Debug/netstandard2.0/UiTestDemoApp.csprojAssemblyReference.cache

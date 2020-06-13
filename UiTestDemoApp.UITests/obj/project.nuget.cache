@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+9jiPZmp2gQ/OjalBf0f4HLCUUIUW91QIBKVkhjHU11jx5y/AHb3/kIBaIek2/lnSz6+7f3wO/oUqHC326Wug==",
+  "success": true,
+  "projectFilePath": "/Users/pranavtiwari/Projects/UiTestDemoApp/UiTestDemoApp.UITests/UiTestDemoApp.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/pranavtiwari/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/pranavtiwari/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

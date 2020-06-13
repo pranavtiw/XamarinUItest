@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{A0724EFC-3E73-4190-87D2-4E8415AE1B18}|Default">
+  <MonoDevelop.Ide.ItemProperties.UiTestDemoApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UiTestDemoApp" expanded="True" selected="True">
+            <Node name="UiTestDemoApp" expanded="True" />
+            <Node name="UiTestDemoApp.Android" expanded="True" />
+            <Node name="UiTestDemoApp.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="UiTestDemoApp.UITests" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UiTestDemoApp" expanded="True">
+            <Node name="UiTestDemoApp.UITests" expanded="True">
+              <Node name="Test Apps" expanded="True" />
+              <Node name="UiTestDemoApp.UITests.Tests" expanded="True">
+                <Node name="LoginTest" expanded="True">
+                  <Node name="LoginTest(iOS)" expanded="True">
+                    <Node name="CheckLoginSuccess" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UiTestDemoApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B479D996-D2C6-4348-9FD3-0D0EEC1F8A4C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
